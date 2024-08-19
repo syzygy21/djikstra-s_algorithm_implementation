@@ -1,1 +1,1 @@
-This is the repo that has the code for implementing the algorithm
+## Dijkstra's algorithm implementation for a path planning problem
